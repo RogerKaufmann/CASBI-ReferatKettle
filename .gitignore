@@ -1,0 +1,28 @@
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# thumbnails
+._*
+thumbs.db
+
+# python
+*.pyc
+
+# pycharm
+misc.xml
+workspace.xml
+*/.idea/dictionaries/*
+
+# Huge Zips and tars
+*.tar
+*.tgz
+*.zip
+
+# Project specific
+*/Logs/*
+*.log
+*.db
